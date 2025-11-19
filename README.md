@@ -80,13 +80,6 @@ SELECT * FROM Data_CLIENT ORDER BY ID_DB DESC LIMIT 1;
 ```
 → Une ligne avec `reception` = `KIU5m LK52 Fgb2 ZSt4 Mu8c Mh8h CT3S jiTr` et timestamp actuel.
 
-## Captures d’écran (pour le compte-rendu)
-
-Les captures suivantes sont prêtes à être jointes au rendu :
-
-![Serveur en écoute et confirmation](captures/serveur_execution.png)
-![Client réception et insertion réussie](captures/client_execution.png)
-![Ligne insérée dans phpMyAdmin](captures/bdd_insertion.png)
 
 ## Notes
 
@@ -94,7 +87,6 @@ Les captures suivantes sont prêtes à être jointes au rendu :
 - Les identifiants MySQL sont ceux fournis dans le sujet (hardcodés pour le test).
 - Gestion basique des erreurs (affichage clair en cas de problème de connexion BDD).
 - Code propre, commenté, respect strict du sujet (espaces, phrase exacte "Code bien reçu", etc.).
-- Temps de réalisation : **28 minutes** (de la lecture du sujet à la validation complète en base).
 
 Projet prêt à être cloné, compilé et exécuté immédiatement.
 
