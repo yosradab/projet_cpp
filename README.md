@@ -14,11 +14,16 @@ Fonctionnalités implémentées à 100 % conformément au cahier des charges :
 
 ```
 .
-├── serveur.cpp      # Serveur TCP qui envoie T1 et affiche la confirmation
-├── client.cpp       # Client qui reçoit T1, insère en BDD et renvoie la confirmation
-├── Makefile         # Compilation simple et propre
-├── README.md          # Ce fichier
-└── captures/        # (à créer) captures d’écran pour le compte-rendu
+├── serveur.cpp       # Serveur TCP qui envoie T1 et affiche la confirmation
+
+├── client.cpp        # Client qui reçoit T1, insère en BDD et renvoie la confirmation
+
+├── Makefile          # Compilation simple et propre
+
+├── README.md           # Ce fichier
+
+
+
 ```
 
 ## Prérequis
