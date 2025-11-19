@@ -1,0 +1,13 @@
+Ignorer les exécutables compilés (ne pas les versionner)
+
+serveur
+client
+
+Ignorer les fichiers objets temporaires (si utilisés)
+
+*.o
+
+Ignorer les fichiers systèmes et dossiers d'IDE
+
+.vscode/
+.i
